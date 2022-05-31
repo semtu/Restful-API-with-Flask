@@ -1,0 +1,382 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "date": "2022-05-11",
+      "title": "Just a Little Rant:  Apple App Store Why Are You Like This",
+      "url": "https://levistech.ca/Blog-Details/Just-a-Little-Rant--Apple-App-Store-Why-Are-You-Like-This",
+      "tag": "Business"
+    },
+    {
+      "id": 2,
+      "date": "2022-04-12",
+      "title": "Summer is Coming",
+      "url": "https://levistech.ca/Blog-Details/Summer-is-Coming",
+      "tag": "Business"
+    },
+    {
+      "id": 3,
+      "date": "2021-12-15",
+      "title": "Levis RM has FIFO",
+      "url": "https://levistech.ca/Blog-Details/Levis-RM-has-FIFO",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 4,
+      "date": "2021-10-27",
+      "title": "Monkey Pro + Levis = \u2661",
+      "url": "https://levistech.ca/Blog-Details/Monkey-Pro--Levis--%E2%99%A1",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 5,
+      "date": "2021-06-18",
+      "title": "TechTalk: NFTs and Why We Want to Talk About Them",
+      "url": "https://levistech.ca/Blog-Details/TechTalk-NFTs-and-Why-We-Want-to-Talk-About-Them",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 6,
+      "date": "2021-06-11",
+      "title": "Websites Are Special",
+      "url": "https://levistech.ca/Blog-Details/Websites-Are-Special",
+      "tag": "Business"
+    },
+    {
+      "id": 7,
+      "date": "2021-05-12",
+      "title": "What is UX and what\u2019s all the fuss about?",
+      "url": "https://levistech.ca/Blog-Details/What-is-UX-and-what%E2%80%99s-all-the-fuss-about",
+      "tag": "Business"
+    },
+    {
+      "id": 8,
+      "date": "2021-04-19",
+      "title": "Levis TechTalk: AMP is Magical and You Should Try It Part 2",
+      "url": "https://levistech.ca/Blog-Details/Levis-TechTalk-AMP-is-Magical-and-You-Should-Try-It-Part-2",
+      "tag": "partners portal"
+    },
+    {
+      "id": 9,
+      "date": "2021-04-13",
+      "title": "Product launch! World, meet elev8",
+      "url": "https://levistech.ca/Blog-Details/Product-launch%21-World-meet-elev8",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 10,
+      "date": "2021-03-16",
+      "title": "Three Years Strong",
+      "url": "https://levistech.ca/Blog-Details/Three-Years-Strong",
+      "tag": "Business"
+    },
+    {
+      "id": 11,
+      "date": "2021-03-05",
+      "title": "Hey Not Millennials! It's Your Turn",
+      "url": "https://levistech.ca/Blog-Details/Hey-Not-Millennials%21-It%27s-Your-Turn",
+      "tag": "News"
+    },
+    {
+      "id": 12,
+      "date": "2021-01-08",
+      "title": "Office Life: It All Starts with the Best Intentions",
+      "url": "https://levistech.ca/Blog-Details/Office-Life-It-All-Starts-with-the-Best-Intentions",
+      "tag": "Business"
+    },
+    {
+      "id": 13,
+      "date": "2020-09-18",
+      "title": "Would You Visit a Human Library?",
+      "url": "https://levistech.ca/Blog-Details/Would-You-Visit-a-Human-Library",
+      "tag": "Business"
+    },
+    {
+      "id": 14,
+      "date": "2020-09-04",
+      "title": "TechTalk: A Deeper Dive into Blockchain by JLF",
+      "url": "https://levistech.ca/Blog-Details/TechTalk-A-Deeper-Dive-into-Blockchain-by-JLF",
+      "tag": "Business"
+    },
+    {
+      "id": 15,
+      "date": "2020-08-28",
+      "title": "Last Summer Days",
+      "url": "https://levistech.ca/Blog-Details/Last-Summer-Days",
+      "tag": "Business"
+    },
+    {
+      "id": 16,
+      "date": "2020-08-14",
+      "title": "Back In the Saddle Again! Out Where a Friend is a Friend! Etc",
+      "url": "https://levistech.ca/Blog-Details/Back-In-the-Saddle-Again%21-Out-Where-a-Friend-is-a-Friend%21-Etc",
+      "tag": "News"
+    },
+    {
+      "id": 17,
+      "date": "2020-07-10",
+      "title": "Stop Your Software from Fighting: APIs Get Your Systems to Work Out their Problems",
+      "url": "https://levistech.ca/Blog-Details/Stop-Your-Software-from-Fighting-APIs-Get-Your-Systems-to-Work-Out-their-Problems",
+      "tag": "Business"
+    },
+    {
+      "id": 18,
+      "date": "2020-07-03",
+      "title": "Taking off like a titanium plated Cybertruck",
+      "url": "https://levistech.ca/Blog-Details/Taking-off-like-a-titanium-plated-Cybertruck",
+      "tag": "News"
+    },
+    {
+      "id": 19,
+      "date": "2020-06-26",
+      "title": "Levis Summer Fun: Go Buy Shoes",
+      "url": "https://levistech.ca/Blog-Details/Levis-Summer-Fun-Go-Buy-Shoes",
+      "tag": "Business"
+    },
+    {
+      "id": 20,
+      "date": "2020-06-19",
+      "title": "Levis TechTalk: AMP is Magical and You Should Try It Part 2",
+      "url": "https://levistech.ca/Blog-Details/Levis-TechTalk-AMP-is-Magical-and-You-Should-Try-It-Part-2",
+      "tag": "Tech"
+    },
+    {
+      "id": 21,
+      "date": "2020-06-12",
+      "title": "WFH: Something New For Your Acronym Soup",
+      "url": "https://levistech.ca/Blog-Details/WFH-Something-New-For-Your-Acronym-Soup",
+      "tag": "Business"
+    },
+    {
+      "id": 22,
+      "date": "2020-05-29",
+      "title": "Levis TechTalk:  How AMP Satisfies Our Need for Speed",
+      "url": "https://levistech.ca/Blog-Details/Levis-TechTalk--How-AMP-Satisfies-Our-Need-for-Speed",
+      "tag": "Business"
+    },
+    {
+      "id": 23,
+      "date": "2020-05-22",
+      "title": "The Levis Where Are They Now Series: Bitcoin Blues",
+      "url": "https://levistech.ca/Blog-Details/The-Levis-Where-Are-They-Now-Series-Bitcoin-Blues",
+      "tag": "Business"
+    },
+    {
+      "id": 24,
+      "date": "2020-05-15",
+      "title": "Why We Should Practice Saying I Don't Know",
+      "url": "https://levistech.ca/Blog-Details/Why-We-Should-Practice-Saying-I-Don%27t-Know",
+      "tag": "Business"
+    },
+    {
+      "id": 25,
+      "date": "2020-05-08",
+      "title": "The Things You Learn: Videoconferencing & the People You Know",
+      "url": "https://levistech.ca/Blog-Details/The-Things-You-Learn-Videoconferencing--the-People-You-Know",
+      "tag": "Business"
+    },
+    {
+      "id": 26,
+      "date": "2020-05-05",
+      "title": "Decision Fatigue: The Moment When Your Brain Says Enough Already",
+      "url": "https://levistech.ca/Blog-Details/Decision-Fatigue-The-Moment-When-Your-Brain-Says-Enough-Already",
+      "tag": "Business"
+    },
+    {
+      "id": 27,
+      "date": "2020-05-01",
+      "title": "The Thrilling Conclusion: How PWAs Benefit Businesses",
+      "url": "https://levistech.ca/Blog-Details/The-Thrilling-Conclusion-How-PWAs-Benefit-Businesses",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 28,
+      "date": "2020-04-24",
+      "title": "You Know You're Hooked: PWAs Part 2",
+      "url": "https://levistech.ca/Blog-Details/You-Know-You%27re-Hooked-PWAs-Part-2",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 29,
+      "date": "2020-04-16",
+      "title": "Need an App for That? How About a PWA?",
+      "url": "https://levistech.ca/Blog-Details/Need-an-App-for-That-How-About-a-PWA",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 30,
+      "date": "2020-04-03",
+      "title": "Building New Connections",
+      "url": "https://levistech.ca/Blog-Details/Building-New-Connections",
+      "tag": "Business"
+    },
+    {
+      "id": 31,
+      "date": "2020-03-23",
+      "title": "Easy (ish?) Ecommerce for Small Business",
+      "url": "https://levistech.ca/Blog-Details/Easy-%28ish%29-Ecommerce-for-Small-Business",
+      "tag": "Business"
+    },
+    {
+      "id": 32,
+      "date": "2020-03-10",
+      "title": "Just How Important is Networking?",
+      "url": "https://levistech.ca/Blog-Details/Just-How-Important-is-Networking",
+      "tag": "Business"
+    },
+    {
+      "id": 33,
+      "date": "2020-02-11",
+      "title": "Has Your Business Been Bumped Down the List on Google? There\u2019s a Reason",
+      "url": "https://levistech.ca/Blog-Details/Has-Your-Business-Been-Bumped-Down-the-List-on-Google-There%E2%80%99s-a-Reason",
+      "tag": "Business"
+    },
+    {
+      "id": 34,
+      "date": "2020-01-24",
+      "title": "\"Can\u2019t Someone Else Do It?\u201d The End of Menial Tasks",
+      "url": "https://levistech.ca/Blog-Details/%22Can%E2%80%99t-Someone-Else-Do-It%E2%80%9D-The-End-of-Menial-Tasks",
+      "tag": "Business"
+    },
+    {
+      "id": 35,
+      "date": "2019-10-02",
+      "title": "SEO for Startups: Part 3",
+      "url": "https://levistech.ca/Blog-Details/SEO-for-Startups-Part-3",
+      "tag": "Business"
+    },
+    {
+      "id": 36,
+      "date": "2019-09-04",
+      "title": "SEO for Startups: Part 2",
+      "url": "https://levistech.ca/Blog-Details/SEO-for-Startups-Part-2",
+      "tag": "Business"
+    },
+    {
+      "id": 37,
+      "date": "2019-08-21",
+      "title": "SEO for Startups: Part 1",
+      "url": "https://levistech.ca/Blog-Details/SEO-for-Startups-Part-1",
+      "tag": "Business"
+    },
+    {
+      "id": 38,
+      "date": "2019-05-31",
+      "title": "Easy SEO: Some Simple Steps to Make Google Happy",
+      "url": "https://levistech.ca/Blog-Details/Easy-SEO-Some-Simple-Steps-to-Make-Google-Happy",
+      "tag": "Business"
+    },
+    {
+      "id": 39,
+      "date": "2019-05-30",
+      "title": "Video Marketing: Might be Easier than You Think",
+      "url": "https://levistech.ca/Blog-Details/Video-Marketing-Might-be-Easier-than-You-Think",
+      "tag": "Business"
+    },
+    {
+      "id": 40,
+      "date": "2019-05-14",
+      "title": "Saskatoon Developer Creates Furniture Subscription Platform",
+      "url": "https://levistech.ca/Blog-Details/Saskatoon-Developer-Creates-Furniture-Subscription-Platform",
+      "tag": "News"
+    },
+    {
+      "id": 41,
+      "date": "2019-05-13",
+      "title": "Website Analytics 101: The Numbers You Should Know",
+      "url": "https://levistech.ca/Blog-Details/Website-Analytics-101-The-Numbers-You-Should-Know",
+      "tag": "Business"
+    },
+    {
+      "id": 42,
+      "date": "2019-05-01",
+      "title": "Get Out of the Trenches Once in a While",
+      "url": "https://levistech.ca/Blog-Details/Get-Out-of-the-Trenches-Once-in-a-While",
+      "tag": "General Blog - Main Category"
+    },
+    {
+      "id": 43,
+      "date": "2019-04-11",
+      "title": "Get More From Less: Writing for Websites",
+      "url": "https://levistech.ca/Blog-Details/Get-More-From-Less-Writing-for-Websites",
+      "tag": "Business"
+    },
+    {
+      "id": 44,
+      "date": "2019-02-21",
+      "title": "Graphic Design: Art with a Purpose",
+      "url": "https://levistech.ca/Blog-Details/Graphic-Design-Art-with-a-Purpose",
+      "tag": "Business"
+    },
+    {
+      "id": 45,
+      "date": "2019-01-21",
+      "title": "Is Your Web Design Helping You Reach Your Goals?",
+      "url": "https://levistech.ca/Blog-Details/Is-Your-Web-Design-Helping-You-Reach-Your-Goals",
+      "tag": ""
+    },
+    {
+      "id": 46,
+      "date": "2018-12-12",
+      "title": "New website in the works? Let's talk CMS.",
+      "url": "https://levistech.ca/Blog-Details/New-website-in-the-works-Let%27s-talk-CMS.",
+      "tag": "Business"
+    },
+    {
+      "id": 47,
+      "date": "2018-11-26",
+      "title": "Preventing Privacy Breaches: Part 3",
+      "url": "https://levistech.ca/Blog-Details/Preventing-Privacy-Breaches-Part-3",
+      "tag": ""
+    },
+    {
+      "id": 48,
+      "date": "2018-11-26",
+      "title": "Preventing Privacy Breaches: Part 3",
+      "url": "https://levistech.ca/Blog-Details/Preventing-Privacy-Breaches-Part-3",
+      "tag": "Business"
+    },
+    {
+      "id": 49,
+      "date": "2018-11-05",
+      "title": "Preventing Privacy Breaches: Part 1",
+      "url": "https://levistech.ca/Blog-Details/Preventing-Privacy-Breaches-Part-1",
+      "tag": ""
+    },
+    {
+      "id": 50,
+      "date": "2018-07-16",
+      "title": "The 6 Positive Effects of Automating Repetitive Tasks",
+      "url": "https://levistech.ca/Blog-Details/The-6-Positive-Effects-of-Automating-Repetitive-Tasks",
+      "tag": "Business"
+    },
+    {
+      "id": 51,
+      "date": "2018-07-16",
+      "title": "Gain and Maintain Fiercely Loyal Customers",
+      "url": "https://levistech.ca/Blog-Details/Gain-and-Maintain-Fiercely-Loyal-Customers",
+      "tag": "Business"
+    },
+    {
+      "id": 52,
+      "date": "2017-12-01",
+      "title": "Stockpile Reports",
+      "url": "https://levistech.ca/Blog-Details/Stockpile-Reports",
+      "tag": "Partners"
+    },
+    {
+      "id": 53,
+      "date": "2017-12-01",
+      "title": "OpenSail: New Office",
+      "url": "https://levistech.ca/Blog-Details/OpenSail-New-Office",
+      "tag": "Partners"
+    },
+    {
+      "id": 54,
+      "date": "2017-12-01",
+      "title": "Complete Technologies: Webinar Series",
+      "url": "https://levistech.ca/Blog-Details/Complete-Technologies-Webinar-Series",
+      "tag": "Partners"
+    }
+  ]
+}
